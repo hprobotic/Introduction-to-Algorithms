@@ -1,4 +1,4 @@
-#CS01 Introduction to Algorithms
+# CS01 Introduction to Algorithms
 
 ## Tuần 1 (Chi tiết [#1](/../../issues/1))
 
